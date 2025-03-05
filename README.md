@@ -1,6 +1,8 @@
 ![axjjd2nyj1kb1](https://github.com/user-attachments/assets/668f82cd-ce54-411f-9cfc-4289056842f1)
 
 ```javascript
+
+
 const exhilarin = {
     bio: "Hi! My name is İlyas. I'm 20 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
     goals: {
@@ -24,8 +26,8 @@ const exhilarin = {
 };
 ```
 <div>
-    <img align="left" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
-    <img align="left" width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=exhilarin&theme=tokyonight" />
+    <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
+    <img align="left" width="47%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=exhilarin&theme=tokyonight" />
 </div>
 
 ---
