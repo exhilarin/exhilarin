@@ -18,13 +18,11 @@ const exhilarin = {
         play: ["Video Games", "Board Games", "Billiards", "Guitar", "Cards", ...],
         sport: ["Swimming", "Cycling", "Table Tennis", "Skateboard", "Ice skate", ...]
     },
-    motto: [
-        "It gets easier",
-        "Everyday it gets a little easier",
-        "But you gotta do it everyday",
-        "That's the hard part",
-        "But it does get easier"
-    ]
+    motto: ["It gets easier",
+            "Everyday it gets a little easier",
+            "But you gotta do it everyday",
+            "That's the hard part",
+            "But it does get easier"]
 };
 
 ```
