@@ -24,8 +24,8 @@ const exhilarin = {
 };
 ```
 <div>
-    <img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
-    <img align="left" width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=exhilarin&theme=tokyonight" />
+    <img align="left" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
+    <img align="left" width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=exhilarin&theme=tokyonight" />
 </div>
 
 ---
