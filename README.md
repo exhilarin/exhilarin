@@ -29,12 +29,10 @@ const exhilarin = {
 <div>
     <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
     <img src="https://streak-stats.demolab.com?user=exhilarin&theme=tokyonight" alt="GitHub Streak" width="48%" height="200px">
-
 </div>
 
 ---
 
-<br><br>
 
 <h3 align="center">ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs</h3>
 
