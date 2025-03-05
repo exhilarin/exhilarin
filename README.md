@@ -2,7 +2,6 @@
 
 ```javascript
 
-
 const exhilarin = {
     bio: "Hi! My name is İlyas. I'm 20 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
     goals: {
