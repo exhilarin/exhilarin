@@ -3,6 +3,7 @@
 ```javascript
 
 const exhilarin = {
+    
     bio: "Hi! My name is İlyas. I'm 20 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
     goals: {
         education: {
@@ -17,12 +18,15 @@ const exhilarin = {
         play: ["Video Games", "Board Games", "Billiards", "Guitar", "Cards", ...],
         sport: ["Swimming", "Cycling", "Table Tennis", "Skateboard", "Ice skate", ...]
     },
-    motto: ["It gets easier",
-            "Everyday it gets a little easier",
-            "But you gotta do it everyday",
-            "That's the hard part",
-            "But it does get easier"]
+    motto: [
+        "It gets easier",
+        "Everyday it gets a little easier",
+        "But you gotta do it everyday",
+        "That's the hard part",
+        "But it does get easier"
+    ]
 };
+
 ```
 <div>
     <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
