@@ -12,7 +12,7 @@ const exhilarin = {
         },
         career: ["Empty for now!"]
     },
-    software_language: ["c, c++, python"]
+    software_language: ["c, c++, python"],
     hobbies: {
         art: ["Draw Something", "Animate Gif", "Pixel Art" ...],
         play: ["Video Games", "Board Games", "Billiards", "Guitar", "Cards", ...],
