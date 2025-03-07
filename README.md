@@ -30,7 +30,7 @@ const exhilarin = {
 <div style="display: flex; justify-content: center; align-items: center;">
     <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=exhilarin&show_icons=true&theme=tokyonight" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="50%" height="200px" src="https://streak-stats.demolab.com?user=exhilarin&theme=tokyonight" alt="GitHub Streak"/>
+    <img width="50%" height="200px" src="https://streak-stats.demolab.com?user=exhilarin&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
