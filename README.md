@@ -17,7 +17,7 @@ const exhilarin = {
     hobbies: {
         art: ["Draw Something", "Animate Gif", "Pixel Art" ...],
         play: ["Video Games", "Board Games", "Billiards", "Guitar", "Cards", ...],
-        sport: ["Swimming", "Cycling", "Table Tennis", "Skateboard", "Ice skate", ...]
+        sport: ["Swimming", "Cycling", "Table Tennis", "Skateboard", "Ice Skate", ...]
     },
     motto: [ "It gets easier",
              "Everyday it gets a little easier",
