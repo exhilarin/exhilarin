@@ -4,7 +4,7 @@
 
 const exhilarin = {
 
- bio: "Hi! My name is İlyas G. I'm 21 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
+ bio: "Hi! My name is İlyas. I'm 21 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
 
     goals: {
         education: {
