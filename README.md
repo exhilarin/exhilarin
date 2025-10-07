@@ -8,7 +8,7 @@ const exhilarin = {
 
     goals: {
         education: {
-            university: ["İstinye University -> Software Engineering"] - [1/4] - [Available],
+            university: ["İstinye University -> Software Engineering"] - [2/4] - [Available],
             42: ["42 Cursus"] - [Available]
         },
         career: ["Empty for now!"]
