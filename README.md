@@ -4,11 +4,11 @@
 
 const exhilarin = {
 
- bio: "Hi! My name is İlyas. I'm 21 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
+ bio: "Hi! My name is İlyas. I'm 22 years old. I'm from Trabzon. I'm a software engineering student in İstanbul.",
 
     goals: {
         education: {
-            university: ["İstinye University -> Software Engineering"] - [2/4] - [Available],
+            university: ["İstinye University -> Software Engineering"] - [3/4] - [Available],
             42: ["42 Cursus"] - [Available]
         },
         career: ["Empty for now!"]
